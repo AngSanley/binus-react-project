@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/binus-react-project/static/css/main.0fa7ec49.chunk.css",
+    "main.js": "/binus-react-project/static/js/main.5c584a71.chunk.js",
+    "main.js.map": "/binus-react-project/static/js/main.5c584a71.chunk.js.map",
+    "runtime~main.js": "/binus-react-project/static/js/runtime~main.493dd871.js",
+    "runtime~main.js.map": "/binus-react-project/static/js/runtime~main.493dd871.js.map",
+    "static/css/2.d0176e96.chunk.css": "/binus-react-project/static/css/2.d0176e96.chunk.css",
+    "static/js/2.556d5624.chunk.js": "/binus-react-project/static/js/2.556d5624.chunk.js",
+    "static/js/2.556d5624.chunk.js.map": "/binus-react-project/static/js/2.556d5624.chunk.js.map",
+    "index.html": "/binus-react-project/index.html",
+    "precache-manifest.26f4b7c53a69415f51df842b89f72ae8.js": "/binus-react-project/precache-manifest.26f4b7c53a69415f51df842b89f72ae8.js",
+    "service-worker.js": "/binus-react-project/service-worker.js",
+    "static/css/2.d0176e96.chunk.css.map": "/binus-react-project/static/css/2.d0176e96.chunk.css.map",
+    "static/css/main.0fa7ec49.chunk.css.map": "/binus-react-project/static/css/main.0fa7ec49.chunk.css.map",
+    "static/media/cctv.webm": "/binus-react-project/static/media/cctv.bbf8c068.webm",
+    "static/media/sidebar-2.jpg": "/binus-react-project/static/media/sidebar-2.310509c9.jpg",
+    "static/media/tukar12.jpg": "/binus-react-project/static/media/tukar12.9c0885d9.jpg"
+  }
+}
