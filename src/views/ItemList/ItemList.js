@@ -65,7 +65,6 @@ export default function EmployeeList() {
                 ["H029176", "HANNOCHS BULB 30W", "516", "Rp20,129", "Rp25,212"],
                 ["H001927", "TRASHBAG 200", "917", "Rp5,003", "Rp8,502"],
                 ["H648534", "Aqua 330 ml", "300", "Rp1,600", "Rp2,000"],
-                ["H749288", "Aqua 600 ml", "250", "Rp2,200", "Rp3,000"],
                 ["H623719", "Aqua 1L", "917", "Rp3,700", "Rp6,000"],
                 ["H252102", "Djarum Black Capuccino Rokok 16 Batang", "40", "Rp20,200", "Rp22,700"],
                 ["H261812", "ABC Exo Milk Coffee 230 ml", "50", "Rp4,200", "Rp6,800"],
@@ -87,7 +86,6 @@ export default function EmployeeList() {
                 ["H042616", "Fruit Tea Apple Botol 350 ml", "42", "Rp2,000", "Rp3,500"],
                 ["H099133", "Fruit Tea BlackCurrant Botol 350 ml", "42", "Rp2,000", "Rp3,500"],
                 ["H034659", "Fruit Tea Freeze Botol 350 ml", "23", "Rp2,000", "Rp3,500"]
-
               ]}
             />
           </CardBody>
